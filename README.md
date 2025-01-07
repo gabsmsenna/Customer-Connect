@@ -1,4 +1,4 @@
-# 🧑‍💻 CRUD de Usuários - Backend
+# 🧑‍💻 Customer-Connect Backend
 
 Este repositório contém o backend de um sistema para gerenciamento de usuários. A aplicação oferece um conjunto completo de operações CRUD (Create, Read, Update, Delete) com recursos modernos de filtragem e paginação. Com ela, é possível:
 
